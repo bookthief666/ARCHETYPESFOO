@@ -10,7 +10,7 @@ import {
 } from 'lucide-react';
 
 // Components
-import { ErrorBoundary, PixelButton, Modal, LoadingSpinner, ErrorMessage, ProgressBar } from './components/UI';
+import { PixelButton, LoadingSpinner, ErrorMessage, ProgressBar } from './components/UI';
 import AudioController from './components/AudioController';
 import SacredGeometry from './components/SacredGeometry';
 
