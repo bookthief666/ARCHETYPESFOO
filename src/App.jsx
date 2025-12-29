@@ -366,7 +366,7 @@ function App() {
   // ============================================================================
 
   return (
-    <ErrorBoundary>
+    <div>
       <div className="min-h-screen bg-[#1a0b2e] text-[#ffd700] font-mono selection:bg-[#ffd700] selection:text-[#1a0b2e] overflow-x-hidden">
         {/* Global Styles */}
         <style>{`
